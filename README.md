@@ -182,7 +182,4 @@ README.md
 
 ## Author
 
-Rithvik Sukhavasi
-
-M.Sc Data Science  
-Data Analyst Portfolio Project
+Rithvik.S
